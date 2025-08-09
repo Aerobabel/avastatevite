@@ -1,5 +1,6 @@
 {
   "name": "avatarchat",
+  "homepage":"https://aerobabel.github.io/avastatevite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
